@@ -1,0 +1,37 @@
+{
+  "identifier": "3F5D0A10-0000-0000-0000-000000000001",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "21000000",
+      "localizations": [],
+      "name": "Stairstack Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "21000001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Weekly/monthly totals and building-specific logs",
+              "displayName": "Stairstack Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "stairstack.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Stairstack Pro Monthly",
+          "subscriptionGroupID": "21000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": "1"
+}
